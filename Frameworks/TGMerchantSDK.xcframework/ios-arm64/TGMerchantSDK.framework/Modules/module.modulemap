@@ -1,0 +1,11 @@
+framework module TGMerchantSDK {
+  umbrella header "TGMerchantSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module TGMerchantSDK.Swift {
+  header "TGMerchantSDK-Swift.h"
+  requires objc
+}
