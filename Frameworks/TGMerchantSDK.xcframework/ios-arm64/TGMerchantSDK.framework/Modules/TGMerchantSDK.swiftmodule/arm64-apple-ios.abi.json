@@ -27,57 +27,6 @@
         "printedName": "TGMerchantSDK",
         "children": [
           {
-            "kind": "Var",
-            "name": "sharedInstance",
-            "printedName": "sharedInstance",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "TGMerchantSDK",
-                "printedName": "TGMerchantSDK.TGMerchantSDK",
-                "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:13TGMerchantSDKAAC14sharedInstanceABvpZ",
-            "mangledName": "$s13TGMerchantSDKAAC14sharedInstanceABvpZ",
-            "moduleName": "TGMerchantSDK",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "TGMerchantSDK",
-                    "printedName": "TGMerchantSDK.TGMerchantSDK",
-                    "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:13TGMerchantSDKAAC14sharedInstanceABvgZ",
-                "mangledName": "$s13TGMerchantSDKAAC14sharedInstanceABvgZ",
-                "moduleName": "TGMerchantSDK",
-                "static": true,
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
             "kind": "Function",
             "name": "getInstance",
             "printedName": "getInstance()",

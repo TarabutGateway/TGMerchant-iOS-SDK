@@ -9,7 +9,6 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers final public class TGMerchantSDK : ObjectiveC.NSObject {
-  public static let sharedInstance: TGMerchantSDK.TGMerchantSDK
   @objc final public class func getInstance() -> TGMerchantSDK.TGMerchantSDK
   @objc final public func openLinkWithBankApp(url: Foundation.URL, onCompletion: @escaping (Swift.Bool) -> Swift.Void)
   @objc deinit
