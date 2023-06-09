@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TGMerchantSDK-Swift.h</key>
 		<data>
-		bq5FpYG/vIbIG33m8EnsK/p15Uo=
+		eDrQJebVslRn1zMI+90+h0bgnxc=
 		</data>
 		<key>Headers/TGMerchantSDK.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		CiblEZFT63DaAiwgOmTM7oFAn88=
+		N94V3hjxIEuUZeL2hAusdyaqkgs=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YOMeAs89wvZob8OZxpZubfXIeRA=
+		e7KdYuc+o5SwNC5/gPYDbGB78KE=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YOMeAs89wvZob8OZxpZubfXIeRA=
+		e7KdYuc+o5SwNC5/gPYDbGB78KE=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BHt/9OD1hX9Na5Mb0eh16KpSeg8=
+		UfMYNE4/eCZ8cFPYfVdWvJjmMUw=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		CiblEZFT63DaAiwgOmTM7oFAn88=
+		N94V3hjxIEuUZeL2hAusdyaqkgs=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YX3P9QagVWE6idECDMrVoCegCNQ=
+		sZ4XDs5y84vHuNxqA5z1+KOowNA=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YX3P9QagVWE6idECDMrVoCegCNQ=
+		sZ4XDs5y84vHuNxqA5z1+KOowNA=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kVRhzpnJeqKhl5DnT5m3OczHTmg=
+		Qv6S0Az5P89WVJeN49i499Rv+hU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q3FHlj1SGHtCIfZ1ZVw8dEiMqAiPkQXXHNM9WzWb7V0=
+			GgpqcfXjEhlST5cbEOvdSshIy0HhYmWfWGer/1C3zFg=
 			</data>
 		</dict>
 		<key>Headers/TGMerchantSDK.h</key>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AJCIRNQQmKX75LI4IgTZ6gw/vDCIeE1gUm1NB+s4caI=
+			8Nac+n+bEA9UArhn6z++6f/nDCcJHQCEIrpFNxmj3hQ=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SOKHaBY7xDGn/fUXTh/S1xW+K49IIL3c53I4TYPO0NQ=
+			Lu2HXvJZrVqy6S+pvmy2CMpsTpckOraNI6fb5cDnXf4=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SOKHaBY7xDGn/fUXTh/S1xW+K49IIL3c53I4TYPO0NQ=
+			Lu2HXvJZrVqy6S+pvmy2CMpsTpckOraNI6fb5cDnXf4=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mOMFNzcx9S3x48P/4eKPV9CzHDnOZz3sI+0kBpagfxw=
+			HMe4o55n+e25uOpfoQ2D/ZZJmQY6E3hST4pmgFzIJ8Y=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AJCIRNQQmKX75LI4IgTZ6gw/vDCIeE1gUm1NB+s4caI=
+			8Nac+n+bEA9UArhn6z++6f/nDCcJHQCEIrpFNxmj3hQ=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AwTDvR1Pm9IGSGUqSLEdRK3X5XemMQU9AExxhRHWgOs=
+			ktWJgGL1/lRSZH3HMse/WSUCJHznS3Tqro5HcQ7Na9M=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AwTDvR1Pm9IGSGUqSLEdRK3X5XemMQU9AExxhRHWgOs=
+			ktWJgGL1/lRSZH3HMse/WSUCJHznS3Tqro5HcQ7Na9M=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XdyYm7JmHZoQyVTu+HRNcl38Ohue6Cs2kiVZhN8Hr2g=
+			fHwGHOK8YyFDKRnIt2abqHgO2UT7ELUpSFHUxgUFFHw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

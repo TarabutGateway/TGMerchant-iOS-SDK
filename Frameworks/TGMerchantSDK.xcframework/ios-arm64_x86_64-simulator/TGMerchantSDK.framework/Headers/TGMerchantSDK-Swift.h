@@ -251,13 +251,10 @@ using UInt = size_t;
 #endif
 
 #if defined(__OBJC__)
-@class NSURL;
 
 SWIFT_CLASS("_TtC13TGMerchantSDK13TGMerchantSDK")
 @interface TGMerchantSDK : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-+ (TGMerchantSDK * _Nonnull)getInstance SWIFT_WARN_UNUSED_RESULT;
-- (void)openLinkWithBankAppWithUrl:(NSURL * _Nonnull)url onCompletion:(void (^ _Nonnull)(BOOL))onCompletion;
 @end
 
 #endif
@@ -521,13 +518,10 @@ using UInt = size_t;
 #endif
 
 #if defined(__OBJC__)
-@class NSURL;
 
 SWIFT_CLASS("_TtC13TGMerchantSDK13TGMerchantSDK")
 @interface TGMerchantSDK : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-+ (TGMerchantSDK * _Nonnull)getInstance SWIFT_WARN_UNUSED_RESULT;
-- (void)openLinkWithBankAppWithUrl:(NSURL * _Nonnull)url onCompletion:(void (^ _Nonnull)(BOOL))onCompletion;
 @end
 
 #endif

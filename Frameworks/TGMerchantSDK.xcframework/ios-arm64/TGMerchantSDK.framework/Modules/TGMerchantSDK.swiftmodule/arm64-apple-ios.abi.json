@@ -116,14 +116,13 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK(cm)getInstance",
+            "usr": "s:13TGMerchantSDKAAC11getInstanceAByFZ",
             "mangledName": "$s13TGMerchantSDKAAC11getInstanceAByFZ",
             "moduleName": "TGMerchantSDK",
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl",
-              "ObjC"
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -163,14 +162,12 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK(im)openLinkWithBankAppWithUrl:onCompletion:",
+            "usr": "s:13TGMerchantSDKAAC19openLinkWithBankApp3url12onCompletiony10Foundation3URLV_ySbctF",
             "mangledName": "$s13TGMerchantSDKAAC19openLinkWithBankApp3url12onCompletiony10Foundation3URLV_ySbctF",
             "moduleName": "TGMerchantSDK",
-            "objc_name": "openLinkWithBankAppWithUrl:onCompletion:",
             "declAttributes": [
               "Final",
-              "AccessControl",
-              "ObjC"
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           }

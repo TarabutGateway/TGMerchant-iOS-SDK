@@ -11,7 +11,7 @@ import _StringProcessing
 @objc @_inheritsConvenienceInitializers final public class TGMerchantSDK : ObjectiveC.NSObject {
   public static let sharedInstance: TGMerchantSDK.TGMerchantSDK
   @objc override dynamic public init()
-  @objc final public class func getInstance() -> TGMerchantSDK.TGMerchantSDK
-  @objc final public func openLinkWithBankApp(url: Foundation.URL, onCompletion: @escaping (Swift.Bool) -> Swift.Void)
+  final public class func getInstance() -> TGMerchantSDK.TGMerchantSDK
+  final public func openLinkWithBankApp(url: Foundation.URL, onCompletion: @escaping (Swift.Bool) -> Swift.Void)
   @objc deinit
 }
