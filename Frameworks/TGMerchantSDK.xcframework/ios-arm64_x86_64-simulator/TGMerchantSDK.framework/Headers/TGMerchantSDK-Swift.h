@@ -252,8 +252,8 @@ using UInt = size_t;
 
 #if defined(__OBJC__)
 
-SWIFT_CLASS("_TtC13TGMerchantSDK13TGMerchantSDK")
-@interface TGMerchantSDK : NSObject
+SWIFT_CLASS("_TtC13TGMerchantSDK10TGMerchant")
+@interface TGMerchant : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -519,8 +519,8 @@ using UInt = size_t;
 
 #if defined(__OBJC__)
 
-SWIFT_CLASS("_TtC13TGMerchantSDK13TGMerchantSDK")
-@interface TGMerchantSDK : NSObject
+SWIFT_CLASS("_TtC13TGMerchantSDK10TGMerchant")
+@interface TGMerchant : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

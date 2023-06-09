@@ -23,60 +23,9 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "TGMerchantSDK",
-        "printedName": "TGMerchantSDK",
+        "name": "TGMerchant",
+        "printedName": "TGMerchant",
         "children": [
-          {
-            "kind": "Var",
-            "name": "sharedInstance",
-            "printedName": "sharedInstance",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "TGMerchantSDK",
-                "printedName": "TGMerchantSDK.TGMerchantSDK",
-                "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:13TGMerchantSDKAAC14sharedInstanceABvpZ",
-            "mangledName": "$s13TGMerchantSDKAAC14sharedInstanceABvpZ",
-            "moduleName": "TGMerchantSDK",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "TGMerchantSDK",
-                    "printedName": "TGMerchantSDK.TGMerchantSDK",
-                    "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:13TGMerchantSDKAAC14sharedInstanceABvgZ",
-                "mangledName": "$s13TGMerchantSDKAAC14sharedInstanceABvgZ",
-                "moduleName": "TGMerchantSDK",
-                "static": true,
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
           {
             "kind": "Constructor",
             "name": "init",
@@ -84,14 +33,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "TGMerchantSDK",
-                "printedName": "TGMerchantSDK.TGMerchantSDK",
-                "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK"
+                "name": "TGMerchant",
+                "printedName": "TGMerchantSDK.TGMerchant",
+                "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK(im)init",
-            "mangledName": "$s13TGMerchantSDKAACABycfc",
+            "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant(im)init",
+            "mangledName": "$s13TGMerchantSDK0A0CACycfc",
             "moduleName": "TGMerchantSDK",
             "overriding": true,
             "objc_name": "init",
@@ -99,32 +48,10 @@
               "Dynamic",
               "ObjC",
               "AccessControl",
-              "Override"
+              "Override",
+              "RawDocComment"
             ],
             "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "getInstance",
-            "printedName": "getInstance()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "TGMerchantSDK",
-                "printedName": "TGMerchantSDK.TGMerchantSDK",
-                "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:13TGMerchantSDKAAC11getInstanceAByFZ",
-            "mangledName": "$s13TGMerchantSDKAAC11getInstanceAByFZ",
-            "moduleName": "TGMerchantSDK",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
           },
           {
             "kind": "Function",
@@ -162,19 +89,20 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13TGMerchantSDKAAC19openLinkWithBankApp3url12onCompletiony10Foundation3URLV_ySbctF",
-            "mangledName": "$s13TGMerchantSDKAAC19openLinkWithBankApp3url12onCompletiony10Foundation3URLV_ySbctF",
+            "usr": "s:13TGMerchantSDK0A0C19openLinkWithBankApp3url12onCompletiony10Foundation3URLV_ySbctF",
+            "mangledName": "$s13TGMerchantSDK0A0C19openLinkWithBankApp3url12onCompletiony10Foundation3URLV_ySbctF",
             "moduleName": "TGMerchantSDK",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchantSDK",
-        "mangledName": "$s13TGMerchantSDKAAC",
+        "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant",
+        "mangledName": "$s13TGMerchantSDK0A0C",
         "moduleName": "TGMerchantSDK",
         "declAttributes": [
           "Final",
