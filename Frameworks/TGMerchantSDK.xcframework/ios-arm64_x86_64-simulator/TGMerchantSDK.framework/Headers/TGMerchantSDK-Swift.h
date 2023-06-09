@@ -255,8 +255,7 @@ using UInt = size_t;
 
 SWIFT_CLASS("_TtC13TGMerchantSDK13TGMerchantSDK")
 @interface TGMerchantSDK : NSObject
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 + (TGMerchantSDK * _Nonnull)getInstance SWIFT_WARN_UNUSED_RESULT;
 - (void)openLinkWithBankAppWithUrl:(NSURL * _Nonnull)url onCompletion:(void (^ _Nonnull)(BOOL))onCompletion;
 @end
@@ -526,8 +525,7 @@ using UInt = size_t;
 
 SWIFT_CLASS("_TtC13TGMerchantSDK13TGMerchantSDK")
 @interface TGMerchantSDK : NSObject
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 + (TGMerchantSDK * _Nonnull)getInstance SWIFT_WARN_UNUSED_RESULT;
 - (void)openLinkWithBankAppWithUrl:(NSURL * _Nonnull)url onCompletion:(void (^ _Nonnull)(BOOL))onCompletion;
 @end
