@@ -9,7 +9,8 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 @objc @_inheritsConvenienceInitializers final public class TGMerchant : ObjectiveC.NSObject {
-  @objc override dynamic public init()
+  final public class func getInstance() -> TGMerchantSDK.TGMerchant
   final public func openLinkWithBankApp(url: Foundation.URL, onCompletion: @escaping (Swift.Bool) -> Swift.Void)
+  @objc override dynamic public init()
   @objc deinit
 }
