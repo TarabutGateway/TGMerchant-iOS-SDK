@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		kVxsE8Q8H/uROReCN6lP1nzvfU0=
+		qz0hymFax/NRA+9fsv7zY/qst5s=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		611OC6+XJPWKhuadckDJ6VGt5VU=
+		kl5Ls2AWgTsSgmcWF2PoqQXQEg4=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		611OC6+XJPWKhuadckDJ6VGt5VU=
+		kl5Ls2AWgTsSgmcWF2PoqQXQEg4=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QQmWEHympyb/kBVYe87UtA1930o=
+		nRDTG/zeBSjjQ7miW6mpKSYhu4Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MjaahleYXYGr4VHRqZ9cdcxk4SvzzVgfYBCZDLBA88w=
+			LOkfgxq0tJKieWcKj1gCcjWxlZjkr4ZHCAaLTMsJxvY=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C2N5AwIJw/Mx4vAmteGx05rl1gn2fIwbJqqwSbF4GWo=
+			ZnVpAVtNvdBIzH/7cdhk6bQYdqm9Grg8NwQBnOWm12M=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C2N5AwIJw/Mx4vAmteGx05rl1gn2fIwbJqqwSbF4GWo=
+			ZnVpAVtNvdBIzH/7cdhk6bQYdqm9Grg8NwQBnOWm12M=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xiHxoLvsallKyuOXO6WtRGxA18mRqgaE8XsH/kfFIno=
+			2S33x/kcHGsxATpiy6BEzE/2uhGHlDCAkjYfhRw7ny4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

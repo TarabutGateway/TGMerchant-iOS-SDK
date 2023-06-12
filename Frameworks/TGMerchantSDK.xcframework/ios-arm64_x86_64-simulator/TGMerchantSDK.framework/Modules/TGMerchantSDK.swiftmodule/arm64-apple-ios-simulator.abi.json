@@ -27,9 +27,9 @@
         "printedName": "TGMerchant",
         "children": [
           {
-            "kind": "Function",
-            "name": "getInstance",
-            "printedName": "getInstance()",
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -38,17 +38,20 @@
                 "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant"
               }
             ],
-            "declKind": "Func",
-            "usr": "s:13TGMerchantSDK0A0C11getInstanceACyFZ",
-            "mangledName": "$s13TGMerchantSDK0A0C11getInstanceACyFZ",
+            "declKind": "Constructor",
+            "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant(im)init",
+            "mangledName": "$s13TGMerchantSDK0A0CACycfc",
             "moduleName": "TGMerchantSDK",
-            "static": true,
+            "overriding": true,
+            "objc_name": "init",
             "declAttributes": [
-              "Final",
+              "Dynamic",
+              "ObjC",
+              "Override",
               "AccessControl",
               "RawDocComment"
             ],
-            "funcSelfKind": "NonMutating"
+            "init_kind": "Designated"
           },
           {
             "kind": "Function",
@@ -91,35 +94,10 @@
             "moduleName": "TGMerchantSDK",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "TGMerchant",
-                "printedName": "TGMerchantSDK.TGMerchant",
-                "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant(im)init",
-            "mangledName": "$s13TGMerchantSDK0A0CACycfc",
-            "moduleName": "TGMerchantSDK",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "init",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Override"
-            ],
-            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
