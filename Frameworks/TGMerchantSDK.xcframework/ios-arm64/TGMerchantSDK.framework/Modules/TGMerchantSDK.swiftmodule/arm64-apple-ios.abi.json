@@ -27,9 +27,9 @@
         "printedName": "TGMerchant",
         "children": [
           {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
+            "kind": "Function",
+            "name": "getInstance",
+            "printedName": "getInstance()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -38,20 +38,16 @@
                 "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant"
               }
             ],
-            "declKind": "Constructor",
-            "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant(im)init",
-            "mangledName": "$s13TGMerchantSDK0A0CACycfc",
+            "declKind": "Func",
+            "usr": "s:13TGMerchantSDK0A0C11getInstanceACyFZ",
+            "mangledName": "$s13TGMerchantSDK0A0C11getInstanceACyFZ",
             "moduleName": "TGMerchantSDK",
-            "overriding": true,
-            "objc_name": "init",
+            "static": true,
             "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "AccessControl",
-              "Override",
-              "RawDocComment"
+              "Final",
+              "AccessControl"
             ],
-            "init_kind": "Designated"
+            "funcSelfKind": "NonMutating"
           },
           {
             "kind": "Function",
@@ -94,8 +90,7 @@
             "moduleName": "TGMerchantSDK",
             "declAttributes": [
               "Final",
-              "AccessControl",
-              "RawDocComment"
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           }
@@ -110,6 +105,7 @@
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "ObjectiveC.NSObject"
