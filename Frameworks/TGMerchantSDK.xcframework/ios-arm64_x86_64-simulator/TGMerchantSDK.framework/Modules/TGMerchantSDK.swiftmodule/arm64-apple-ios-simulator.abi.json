@@ -45,7 +45,8 @@
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -93,6 +94,32 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TGMerchant",
+                "printedName": "TGMerchantSDK.TGMerchant",
+                "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@TGMerchantSDK@objc(cs)TGMerchant(im)init",
+            "mangledName": "$s13TGMerchantSDK0A0CACycfc",
+            "moduleName": "TGMerchantSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
@@ -105,7 +132,6 @@
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
-        "hasMissingDesignatedInitializers": true,
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "ObjectiveC.NSObject"

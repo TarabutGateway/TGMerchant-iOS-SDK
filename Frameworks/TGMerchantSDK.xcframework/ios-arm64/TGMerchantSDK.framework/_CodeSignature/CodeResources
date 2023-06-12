@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TGMerchantSDK-Swift.h</key>
 		<data>
-		sNH0f2527fZXdsCFuar8jpfBuVY=
+		k+anTqoBE3e274VsffbTHabRf1c=
 		</data>
 		<key>Headers/TGMerchantSDK.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		PA9TenhXoeTrbob7P7yfiIHqIc4=
+		kVxsE8Q8H/uROReCN6lP1nzvfU0=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jrAm5G9Hxjql0MhCOPD9F3UV1uE=
+		611OC6+XJPWKhuadckDJ6VGt5VU=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jrAm5G9Hxjql0MhCOPD9F3UV1uE=
+		611OC6+XJPWKhuadckDJ6VGt5VU=
 		</data>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bmB8MaHRmoDWVF5v2ZZVfkfSGPo=
+		QQmWEHympyb/kBVYe87UtA1930o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fzq99bH3purSbvnsHgGfgElFRrM5xbAle327FXnAcek=
+			pNeF7pa8dTThkT4Pk7jy+3z+GYG1GW07hnJCaCpYNko=
 			</data>
 		</dict>
 		<key>Headers/TGMerchantSDK.h</key>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			494PUyh9zepg3Gfzj++b0aTyTDwQJklPuEnGcEUOuzM=
+			MjaahleYXYGr4VHRqZ9cdcxk4SvzzVgfYBCZDLBA88w=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zKm0icDw0yhTurLLx53v/bXjHPsr1iCddjwlQOq/sog=
+			C2N5AwIJw/Mx4vAmteGx05rl1gn2fIwbJqqwSbF4GWo=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zKm0icDw0yhTurLLx53v/bXjHPsr1iCddjwlQOq/sog=
+			C2N5AwIJw/Mx4vAmteGx05rl1gn2fIwbJqqwSbF4GWo=
 			</data>
 		</dict>
 		<key>Modules/TGMerchantSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YTGgagY+p4iXHZ+874NZnWfw+4ziLjJCgHI6nEYlxwk=
+			xiHxoLvsallKyuOXO6WtRGxA18mRqgaE8XsH/kfFIno=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

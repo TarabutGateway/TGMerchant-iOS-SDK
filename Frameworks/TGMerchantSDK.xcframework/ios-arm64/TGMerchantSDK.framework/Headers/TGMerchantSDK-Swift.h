@@ -254,8 +254,7 @@ using UInt = size_t;
 
 SWIFT_CLASS("_TtC13TGMerchantSDK10TGMerchant")
 @interface TGMerchant : NSObject
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #endif
